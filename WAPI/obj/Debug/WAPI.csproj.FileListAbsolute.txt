@@ -1,0 +1,6 @@
+C:\MyWorks\Common\WAPI\bin\Debug\CCY.Common.WindowsAPI.dll
+C:\MyWorks\Common\WAPI\bin\Debug\CCY.Common.WindowsAPI.pdb
+C:\MyWorks\Common\WAPI\obj\Debug\WAPI.csprojAssemblyReference.cache
+C:\MyWorks\Common\WAPI\obj\Debug\CCY.Common.WindowsAPI.dll
+C:\MyWorks\Common\WAPI\obj\Debug\CCY.Common.WindowsAPI.pdb
+C:\MyWorks\Common\WAPI\obj\Debug\WAPI.csproj.CoreCompileInputs.cache
